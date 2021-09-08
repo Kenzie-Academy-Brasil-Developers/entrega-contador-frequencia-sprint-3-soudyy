@@ -1,0 +1,19 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+textarea {
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    max-width: 100%;
+}
+
+div {
+    margin: 5px 0 5px 0;
+    border: 1px double blue;
+    text-align: center;
+}
